@@ -169,6 +169,4 @@ Ensure that the Aqua assembly code is correctly formatted and free of syntax err
 ---
 
 &copy; 2024 Aqua Language Project
-```
 
-This updated documentation now includes a section on dependencies to help users set up their environment before using the Aqua compiler.
